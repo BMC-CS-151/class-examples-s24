@@ -1,0 +1,10 @@
+             Array | ArrayList  | LL    | ArrayStack | ArrayQueue |
+----------------------------------------------------------------
+ access    | O(1)  | O(1)       | O(n)  | -          | - 
+ insert    | O(n)  | O(n)       | O(n)  | O(1)       | O(1)
+ remove    | O(n)  | O(n)       | O(n)  | O(1)       | O(1)
+ search    | O(n)  | O(n)       | O(n)  | -          | -
+ min/max   | O(n)  | O(n)       | O(n)  | O(1)       | O(1)
+----------------------------------------------------------------
+
+min/max will be in your hw as extra credit.
